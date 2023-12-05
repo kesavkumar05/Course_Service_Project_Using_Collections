@@ -1,4 +1,4 @@
-**# Course_Service_Project_Using_Collections
+# Course_Service_Project_Using_Collections
 *************************************************
 Part 1: Exploring the Course Services Project<br>
 1.Download the src folder and import the project into IntelliJ Idea<br>
