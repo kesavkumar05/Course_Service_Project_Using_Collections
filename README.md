@@ -1,6 +1,6 @@
-# Course_Service_Project_Using_Collections
+**# Course_Service_Project_Using_Collections
 *************************************************
-#Part 1: Exploring the Course Services Project
+#Part 1: Exploring the Course Services Project<br>
 #1.Download the src folder and import the project into IntelliJ Idea
 #2.Run the main method and observe what happens
 #3.Read the code on the Main class and try to understand why is not working
@@ -41,3 +41,4 @@
    #}
 #4.Run the main method and verify that your implementation works.
 
+**
